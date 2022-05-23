@@ -8,3 +8,16 @@ We’ll use the US accident data to identify the factors that contribute to car 
 3)	How good the car accident prediction model?
 4)	Will the car accident prediction model be useful to guide the driving in what conditions?
 5)	Any findings from the car accident prediction modeling.
+
+
+* Peak Hour Traffic
+
+![](/Images/2.peakhours.png)
+
+* Wind Direction Category
+
+![](/Images/7.windcondition.png)
+
+* Summary of All the Models
+
+![](/Images/SummaryOfAllModels.png)
